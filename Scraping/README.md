@@ -1,4 +1,4 @@
-#Scraping
+# Scraping
 
 This folder, Scraping, contains two R scripts which were used to scrape BGG's 
 website and create csvs that will facillitate the recommender system.
