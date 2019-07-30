@@ -7,9 +7,9 @@ These folders contained the files necessaary to create a recommender system for
 boardgames, based off of webscraping of Boardgamegeek.com, which was performed 
 using R.
 
-The first of these folders, files, contains the end results of my scrapping.
+The first of these folders, EDA, contains some of the early exploratory analysis of the data.  
 
-The second, EDA, contains some of the early exploratory analysis of the data. 
+The second, Files, contains the end results of my scrapping, as well as my initial work with the data set(lab2(version2).R)
 
 The third, Scraping, contains the R scripts used to scrape boardgamegeek and 
 create the files present in the files folder.
