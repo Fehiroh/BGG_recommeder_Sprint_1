@@ -1,4 +1,5 @@
-#Files 
+# Files 
+
 This folder contains the results of the scraping, as well as the R script that 
 performed the EDA found in the EDA folder of this repository. 
 
