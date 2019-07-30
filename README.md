@@ -15,3 +15,5 @@ The third, Scraping, contains the R scripts used to scrape boardgamegeek and
 create the files present in the files folder.
 
 For additional information on each folder, see the readme files located in each.
+
+The original data for all boardgames can be found [here](https://www.kaggle.com/gabrio/board-games-dataset)
